@@ -1,0 +1,11 @@
+# main
+scrapy
+requests
+
+
+# dev
+black
+flake8
+autoflake
+pytype
+pytest
